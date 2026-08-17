@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>lk.ijse.eca</groupId>
-    <artifactId>Service-Registry</artifactId>
+    <artifactId>service-registry</artifactId>
     <version>1.0.0</version>
-    <name>Service-Registry</name>
-    <description>Service-Registry</description>
+    <name>service-registry</name>
+    <description>service-registry</description>
 
     <properties>
         <java.version>25</java.version>
